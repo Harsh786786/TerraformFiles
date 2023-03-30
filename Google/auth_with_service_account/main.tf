@@ -8,7 +8,7 @@ terraform {
 } 
 
 provider "google" {
-  # Configuration options
+  # Configuration optionscd ..
   project = "linen-arch-374006"
   region = "us-central1"
   zone = "us-central1-a"
